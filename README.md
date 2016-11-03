@@ -1,2 +1,2 @@
 # info
-AJS dev information site
+AJS dev information site https://ajs-development.github.io/info/
